@@ -1,0 +1,1280 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>AllAuthor - Discover New Books, eBook Deals and Authors</title>
+    <meta name="robots" content="index,follow">
+    <meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=1">	
+    <meta name="description" content="Looking to find great offers on books? AllAuthor offers free ebooks and promising ebook deals on Kindle, iBooks, Kobo and more! Find new authors and get to know more about your favorite authors!">
+    <meta name="keywords" content="Allauthor, Book, promotion, author, readers, quotes, quotesrain, bibliophiles">
+    <meta property="og:site_name" content="AllAuthor">
+    <meta property="og:title" content="AllAuthor - Discover New Books, eBook Deals and Authors">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://allauthor.com">
+    <meta property="og:description" content="Looking to find great offers on books? AllAuthor offers free ebooks and promising ebook deals on Kindle, iBooks, Kobo and more! Find new authors and get to know more about your favorite authors!">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="AllAuthor - Discover New Books, eBook Deals and Authors">
+    <meta property="twitter:description" content="Looking to find great offers on books? AllAuthor offers free ebooks and promising ebook deals on Kindle, iBooks, Kobo and more! Find new authors and get to know more about your favorite authors!">
+    <meta property="twitter:domain" content="allauthor.com">
+    <meta name="p:domain_verify" content="cec0a6c3dac3d02018ef83bfa129b32d"/>
+    <meta property="fb:pages" content="1614214231968102" />
+        <meta property="og:image" content="https://allauthor.com/images/allauthor-og.jpg">
+    <meta property="twitter:image:src" content="https://allauthor.com/images/allauthor-og.jpg">
+    <meta property="og:image:type" content="image/jpeg">
+        <meta property="fb:app_id" content="999302063539838" />
+        <link rel="canonical" href="https://allauthor.com" />
+            <link rel="icon" href="https://allauthor.com/favicon.ico" type="image/x-icon">
+    <!-- Hover CSS -->
+<link href="https://allauthor.com/stylesheet/bootstrap.css,font-awesome.min.css,jquery-ui.css,pace-theme-flash.css,custom.css?v=4.65" rel="stylesheet" type='text/css'>
+<!--<link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">--->
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap" rel="stylesheet">
+<script src="https://allauthor.com/javascript/jquery.min.js,jquery-ui.js,owl.carousel.js,bootstrap.min.js,function.js,notify.js,pace.min.js,yall.js?v=3.46"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5KJMWPV');</script>
+<!-- End Google Tag Manager -->
+	
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-87412829-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-87412829-1');
+</script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '796969950400236');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=796969950400236&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+  
+	
+  </head>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5KJMWPV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <input type="text" style="display:none">
+<input type="password" style="display:none">
+    <input type="hidden" value="https://allauthor.com" name="sitePath" id="sitePath" />
+    <input type="hidden" id="path_url" value="/">
+  
+    <!-- Start Header -->
+        <nav class="navbar navbar-default">
+      <div class="container container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="https://allauthor.com"><img src="https://allauthor.com/images/allauthor-logo2.png" alt="AllAuthor" class="img-responsive"></a>
+        </div>
+        <div class="navbar-right">
+          <div id="navbar" class="navbar-collapse collapse">
+		  
+            <ul class="nav navbar-nav">			
+              <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Authors</a>
+                <ul class="dropdown-menu">
+                <li><a href="https://allauthor.com/authors/">Author Directory</a></li>
+                <li><a href="https://allauthor.com/authors/amazon-top-100-rank/">Amazon Top 100 Rank</a></li>
+                <li><a href="https://allauthor.com/authors/usa-today/">USA Today</a></li>
+                <li><a href="https://allauthor.com/authors/new-york-times/">New York Times</a></li>
+                <li><a href="https://allauthor.com/interview/">Author Interview</a></li>
+                <li><a href="https://allauthor.com/authors-tips/">Author's Top 5 Tips</a></li>
+				<li><a href="https://allauthor.com/authors-pool/">Authors Pool</a></li>
+                      <!--<li><a href="https://allauthor.com/like-on-facebook/">Like Authors' FB Page</a></li>-->
+                  
+                
+                                <li><a href="https://allauthor.com/join-as-an-author/">Join as an Author</a></li>
+				                </ul>
+              </li>
+              <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Books</a>
+                <ul class="dropdown-menu">
+                  <li><a href="https://allauthor.com/books/">Book Directory</a></li>                  
+				  <li><a href="https://allauthor.com/books/free/">Free Books</a></li>
+				  <li><a href="https://allauthor.com/books/bestseller/">#1 Best Seller Books</a></li>
+                  <li><a href="https://allauthor.com/books/signed/">Signed Paperback</a></li>
+                  <li><a href="https://allauthor.com/books/audio/">Audio Books</a></li>
+				  <li><a href="https://allauthor.com/books/ku/">Free with Kindle Unlimited</a></li>
+				  <li><a href="https://allauthor.com/books/deals/">Limited Time Deals</a></li>
+                  <li><a href="https://allauthor.com/book-teaser/">Book Teaser</a></li>
+                  <li><a href="https://allauthor.com/submit-your-book/">Feature Your Book</a></li>
+                </ul>
+              </li>
+              <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Quotes</a>
+                <ul class="dropdown-menu">
+                  <li><a href="https://allauthor.com/quotes/">Famous Quotes</a></li>
+                  <li><a href="https://allauthor.com/picture-quotes/">Picture Quotes</a></li>
+                  <li><a href="https://allauthor.com/quotes/author/">Quotes By Author</a></li>
+                  <li><a href="https://allauthor.com/quotes/topic/">Quotes By Topic</a></li>
+                  <li><a href="https://allauthor.com/quote-of-the-day/">Quote of the Day</a></li>                 
+                </ul>
+              </li>
+              <!--
+			  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services</a>
+                <ul class="dropdown-menu dropdown-menu2">
+                  <li><a href="https://allauthor.com/pricing/">Promotional Plans</a></li>
+                  <li><a href="https://allauthor.com/author-program/">Author Program</a></li>
+				  <li><a href="https://allauthor.com/submit-your-book/">Feature Your Book</a></li>
+                  <li class="toolmenu">TOOLS
+                    <ul class="tool-dropmenu">
+                      <li><a href="https://allauthor.com/pap/">Pens Against Piracy</a></li>
+                      <li><a href="https://allauthor.com/review-gif-maker/">Review GIF Maker</a></li>
+                      <li><a href="https://allauthor.com/social-media-feed/">Social Media Feed</a></li>
+                      <li><a href="https://allauthor.com/book-promotional-banners/">Book Promotional Banners</a></li>
+                      <li><a href="https://allauthor.com/gif-banners/">Promotional GIF Banners</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+			  -->
+              <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contest</a>
+                <ul class="dropdown-menu dropdown-menu2">
+                  <li><a href="https://allauthor.com/cover-of-the-month/">Cover of the Month Voting</a></li>
+                  <li><a href="https://allauthor.com/cover-of-the-month-winners/">Cover of the Month Winners</a></li>
+                  <li><a href="https://allauthor.com/submit-book-cover/">Cover of the Month Submission</a></li>
+                </ul>
+              </li>
+              <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services</a>
+              <ul class="dropdown-menu dropdown-menu2">
+			  
+				  <li class="toolmenu">SERVICES
+                    <ul class="tool-dropmenu">
+					<li><a href="https://allauthor.com/pricing/">Promotional Plans</a></li>
+				  <li><a href="https://allauthor.com/author-program/">Author Program</a></li>
+				  <li><a href="https://allauthor.com/submit-your-book/">Feature Your Book</a></li>
+				  </ul></li>
+                  <li class="toolmenu">TOOLS
+                    <ul class="tool-dropmenu">
+                      <!--<li><a href="https://allauthor.com/pap/">Pens Against Piracy</a></li>-->
+                      <li><a href="https://allauthor.com/review-gif-maker/">Review GIF Maker</a></li>
+                      <!--<li><a href="https://allauthor.com/social-media-feed/">Social Media Feed</a></li>-->
+                      <li><a href="https://allauthor.com/book-promotional-banners/">Seasonal Mockup Banner</a></li>
+                      <li><a href="https://allauthor.com/gif-banners/">Promotional GIF Banners</a></li>
+                    </ul>
+                  </li>
+				  <li class="toolmenu">ABOUT
+                    <ul class="tool-dropmenu">
+              <li><a href="https://allauthor.com/about-us/">About us</a></li>
+              <li><a href="https://allauthor.com/blog/">Blog</a></li>
+              <li><a href="https://allauthor.com/faq/">FAQ</a></li>
+              <li><a href="https://allauthor.com/testimonial/">Testimonial</a></li>
+              <li><a href="https://allauthor.com/contact/">Contact</a></li>
+			  </ul>
+			  </li>
+              </ul>
+              </li>
+            </ul>
+          </div>
+          <div class="userlogin">
+            <ul class="user-menu-link">
+            	<li>
+                <div class="global-search" id="GSearch-info">
+             	<form action="https://allauthor.com/search-page.php" method="GET">
+                <input type="text" id="search" name="q" class="input-search" placeholder="Search...">
+                <button type="submit" class="btn search-button"><i class="fa fa-search"></i><span>Search</span></button>
+				</form>
+                </div>
+             </li>
+						              <li class="account-login sign"><a id="sign_up_modal" data-toggle="modal" data-target="#loginModal" data-backdrop="static" data-keyboard="false" href="javascript:void(0)" onclick="showSignUp();"><i class="fa fa-sign-in"></i> <span>SIGNUP</span></a>
+              <a data-toggle="modal" id="login_up_modal" data-target="#loginModal" data-backdrop="static" data-keyboard="false" href="javascript:void(0)" onClick="showLogin();"><i class="fa fa-key"></i> <span>LOGIN</span></a> <span class="text">Join as an Author or Reader</span></li>
+                        <li class="img-editor dropdown dropdown-editor"><a href="https://allauthor.com/magic/" class="dropdown-toggle" ><i class="fa fa-magic"></i><span>Magic Tool</span></a>
+            <ul class="dropdown-menu">
+            	<li><a href="https://allauthor.com/magic/">Magic Tool</a></li>
+            	<li><a href="https://allauthor.com/instant-mockup/">Seasonal Mockup</a></li>
+                <li><a href="https://allauthor.com/editor/">Image Editor</a></li>
+                <li><a href="https://allauthor.com/tool/">Quotes Editor</a></li>
+            </ul>
+            </li>
+            <li id="GSearch"><a href="javascript:void(0)"><i class="fa fa-search"></i></a></li>
+            </ul>
+        </div>
+      </div>
+      </div>
+    </nav>    
+<script>
+$(document).ready(
+    function() {
+        $("#GSearch").click(function() {
+            $("#GSearch-info").toggle();
+        });
+    });
+</script><link rel="stylesheet" type="text/css" href="css/demo_home.css" />
+<link rel="stylesheet" type="text/css" href="css/homepage.css" />
+<script type="text/javascript" src="js/modernizrcustom26633.js"></script>
+<div id="page-content">
+<div class="startbanner">
+<div class="container-fluid">
+			<div class="row">
+			<div id="ri-grid" class="ri-grid ri-grid-size-3">
+			<ul>
+								<li><a href="https://allauthor.com/book/42923/ravenous-taking-care-of-him/" data-placement="right"  data-toggle="tooltip" data-original-title="Ravenous: Taking Care of Him"><img src="https://media.allauthor.com/book/thumb/355220200519072837.jpg" alt="Ravenous: Taking Care of Him" title="Ravenous: Taking Care of Him"></a></li>
+										<li><a href="https://allauthor.com/book/47891/del-mar/" data-placement="right"  data-toggle="tooltip" data-original-title="Del Mar"><img src="https://media.allauthor.com/book/thumb/499220200918233044.jpg" alt="Del Mar" title="Del Mar"></a></li>
+										<li><a href="https://allauthor.com/book/43823/house-of-the-golden-butterfly-a-ghost-story-the-house-of-restless-souls-book-1/" data-placement="right"  data-toggle="tooltip" data-original-title="House Of The Golden Butterfly: A Ghost Story (The House Of Restless Souls Book 1)"><img src="https://media.allauthor.com/book/thumb/454220200610053558.jpg" alt="House Of The Golden Butterfly: A Ghost Story (The House Of Restless Souls Book 1)" title="House Of The Golden Butterfly: A Ghost Story (The House Of Restless Souls Book 1)"></a></li>
+										<li><a href="https://allauthor.com/book/41349/forbidden-storm/" data-placement="right"  data-toggle="tooltip" data-original-title="Forbidden Storm"><img src="https://media.allauthor.com/book/thumb/20200410000819.jpg" alt="Forbidden Storm" title="Forbidden Storm"></a></li>
+										<li><a href="https://allauthor.com/book/47329/your-time-is-up-the-river-city-mysteries-book-2/" data-placement="right"  data-toggle="tooltip" data-original-title="Your Time is Up (The River City Mysteries Book 2)"><img src="https://media.allauthor.com/book/thumb/356220200905232901.jpg" alt="Your Time is Up (The River City Mysteries Book 2)" title="Your Time is Up (The River City Mysteries Book 2)"></a></li>
+										<li><a href="https://allauthor.com/book/47838/henry-dad-bod-doms-book-2/" data-placement="right"  data-toggle="tooltip" data-original-title="Henry (Dad Bod Doms Book 2)"><img src="https://media.allauthor.com/book/thumb/621420200917225847.jpg" alt="Henry (Dad Bod Doms Book 2)" title="Henry (Dad Bod Doms Book 2)"></a></li>
+										<li><a href="https://allauthor.com/book/24681/dinner-at-sams-a-rubys-novel/" data-placement="right"  data-toggle="tooltip" data-original-title="Dinner at Sam's: A Ruby's Novel"><img src="https://media.allauthor.com/book/thumb/643320181017235125.jpg" alt="Dinner at Sam's: A Ruby's Novel" title="Dinner at Sam's: A Ruby's Novel"></a></li>
+										<li><a href="https://allauthor.com/book/47881/the-contortionist-harrow-faire-book-1/" data-placement="right"  data-toggle="tooltip" data-original-title="The Contortionist (Harrow Faire Book 1)"><img src="https://media.allauthor.com/book/thumb/782920200918231648.jpg" alt="The Contortionist (Harrow Faire Book 1)" title="The Contortionist (Harrow Faire Book 1)"></a></li>
+										<li><a href="https://allauthor.com/book/46321/forever-eve/" data-placement="right"  data-toggle="tooltip" data-original-title="Forever Eve"><img src="https://media.allauthor.com/book/thumb/273720200812015924.jpg" alt="Forever Eve" title="Forever Eve"></a></li>
+										<li><a href="https://allauthor.com/book/28120/water-desires-loves-siren-song-book-ii/" data-placement="right"  data-toggle="tooltip" data-original-title="Water Desires (Loves Siren Song, Book II)"><img src="https://media.allauthor.com/book/thumb/283220190312222904.jpg" alt="Water Desires (Loves Siren Song, Book II)" title="Water Desires (Loves Siren Song, Book II)"></a></li>
+										<li><a href="https://allauthor.com/book/46270/awakening-the-soul-of-power/" data-placement="right"  data-toggle="tooltip" data-original-title="Awakening the Soul of Power"><img src="https://media.allauthor.com/book/thumb/20200810032947.jpg" alt="Awakening the Soul of Power" title="Awakening the Soul of Power"></a></li>
+										<li><a href="https://allauthor.com/book/38779/the-lonely-life-of-a-pornographers-wife/" data-placement="right"  data-toggle="tooltip" data-original-title="The Lonely Life of a Pornographer's Wife"><img src="https://media.allauthor.com/book/thumb/124920200122043501.jpg" alt="The Lonely Life of a Pornographer's Wife" title="The Lonely Life of a Pornographer's Wife"></a></li>
+										<li><a href="https://allauthor.com/book/47555/after-the-bombs-part-i-the-invasion/" data-placement="right"  data-toggle="tooltip" data-original-title="After the Bombs: Part I: The Invasion"><img src="https://media.allauthor.com/book/thumb/937320200910220611.jpg" alt="After the Bombs: Part I: The Invasion" title="After the Bombs: Part I: The Invasion"></a></li>
+										<li><a href="https://allauthor.com/book/40627/caintuck-lies-within-my-soul/" data-placement="right"  data-toggle="tooltip" data-original-title="Caintuck LIes Within My Soul"><img src="https://media.allauthor.com/book/thumb/20200320234836.jpg" alt="Caintuck LIes Within My Soul" title="Caintuck LIes Within My Soul"></a></li>
+										<li><a href="https://allauthor.com/book/46374/joan-and-the-juggernaut-a-scifi-alien-romance-alien-abduction-book-10/" data-placement="right"  data-toggle="tooltip" data-original-title="Joan and the Juggernaut: A SciFi Alien Romance (Alien Abduction Book 10)"><img src="https://media.allauthor.com/book/thumb/247320200814051642.jpg" alt="Joan and the Juggernaut: A SciFi Alien Romance (Alien Abduction Book 10)" title="Joan and the Juggernaut: A SciFi Alien Romance (Alien Abduction Book 10)"></a></li>
+										<li><a href="https://allauthor.com/book/47749/the-emerald-brotherhood-the-leagues-book-1/" data-placement="right"  data-toggle="tooltip" data-original-title="The Emerald Brotherhood (The Leagues Book 1)"><img src="https://media.allauthor.com/book/thumb/341820200915021928.jpg" alt="The Emerald Brotherhood (The Leagues Book 1)" title="The Emerald Brotherhood (The Leagues Book 1)"></a></li>
+										<li><a href="https://allauthor.com/book/29916/high-flying/" data-placement="right"  data-toggle="tooltip" data-original-title="HIGH FLYING"><img src="https://media.allauthor.com/book/thumb/462420190507220759.jpg" alt="HIGH FLYING" title="HIGH FLYING"></a></li>
+										<li><a href="https://allauthor.com/book/40590/the-blood-dagger-trilogy-boxset-the-complete-series-the-outcasts-the-watchers-tree-of-souls/" data-placement="right"  data-toggle="tooltip" data-original-title="The Blood Dagger Trilogy Boxset: The Complete Series: (The Outcasts, The Watchers, Tree of Souls)"><img src="https://media.allauthor.com/book/thumb/755720200319195114.jpg" alt="The Blood Dagger Trilogy Boxset: The Complete Series: (The Outcasts, The Watchers, Tree of Souls)" title="The Blood Dagger Trilogy Boxset: The Complete Series: (The Outcasts, The Watchers, Tree of Souls)"></a></li>
+										<li><a href="https://allauthor.com/book/46103/halloween-haiku/" data-placement="right"  data-toggle="tooltip" data-original-title="Halloween Haiku"><img src="https://media.allauthor.com/book/thumb/991420200804233937.jpg" alt="Halloween Haiku" title="Halloween Haiku"></a></li>
+										<li><a href="https://allauthor.com/book/40567/coyotes-of-creek-crossing-second-in-the-mockingbird-hill-series/" data-placement="right"  data-toggle="tooltip" data-original-title="Coyotes of Creek Crossing, Second in the Mockingbird Hill Series"><img src="https://media.allauthor.com/book/thumb/516520200318181649.jpg" alt="Coyotes of Creek Crossing, Second in the Mockingbird Hill Series" title="Coyotes of Creek Crossing, Second in the Mockingbird Hill Series"></a></li>
+										<li><a href="https://allauthor.com/book/45845/the-never-list/" data-placement="right"  data-toggle="tooltip" data-original-title="The Never List"><img src="https://media.allauthor.com/book/thumb/20200727010517.jpg" alt="The Never List" title="The Never List"></a></li>
+										<li><a href="https://allauthor.com/book/47825/logan-dad-bod-doms-book-1/" data-placement="right"  data-toggle="tooltip" data-original-title="Logan (Dad Bod Doms Book 1)"><img src="https://media.allauthor.com/book/thumb/153820200917073606.jpg" alt="Logan (Dad Bod Doms Book 1)" title="Logan (Dad Bod Doms Book 1)"></a></li>
+										<li><a href="https://allauthor.com/book/47964/mountain-of-full-moons-a-novel/" data-placement="right"  data-toggle="tooltip" data-original-title="Mountain of Full Moons: A Novel"><img src="https://media.allauthor.com/book/thumb/289020200919173259.jpg" alt="Mountain of Full Moons: A Novel" title="Mountain of Full Moons: A Novel"></a></li>
+										<li><a href="https://allauthor.com/book/48069/joannas-journey-the-joanna-books-book-1/" data-placement="right"  data-toggle="tooltip" data-original-title="Joanna's Journey (The Joanna Books Book 1)"><img src="https://media.allauthor.com/book/thumb/810020200922201428.jpg" alt="Joanna's Journey (The Joanna Books Book 1)" title="Joanna's Journey (The Joanna Books Book 1)"></a></li>
+										<li><a href="https://allauthor.com/book/47328/your-lights-are-out-the-river-city-mysteries-book-3/" data-placement="right"  data-toggle="tooltip" data-original-title="Your Lights are Out: The River City Mysteries - Book 3"><img src="https://media.allauthor.com/book/thumb/307620200905232858.jpg" alt="Your Lights are Out: The River City Mysteries - Book 3" title="Your Lights are Out: The River City Mysteries - Book 3"></a></li>
+										<li><a href="https://allauthor.com/book/31156/forgotten-storm/" data-placement="right"  data-toggle="tooltip" data-original-title="Forgotten Storm"><img src="https://media.allauthor.com/book/thumb/20190916215551.jpg" alt="Forgotten Storm" title="Forgotten Storm"></a></li>
+										<li><a href="https://allauthor.com/book/31485/giant-killer-bats-of-alamogordo/" data-placement="right"  data-toggle="tooltip" data-original-title="Giant Killer Bats of Alamogordo"><img src="https://media.allauthor.com/book/thumb/20200921202403.jpg" alt="Giant Killer Bats of Alamogordo" title="Giant Killer Bats of Alamogordo"></a></li>
+										<li><a href="https://allauthor.com/book/28382/maximum-yield-book-2-desire-luxury-wine/" data-placement="right"  data-toggle="tooltip" data-original-title="Maximum Yield: Book 2 Desire & Luxury Wine"><img src="https://media.allauthor.com/book/thumb/263720190319225315.jpg" alt="Maximum Yield: Book 2 Desire & Luxury Wine" title="Maximum Yield: Book 2 Desire & Luxury Wine"></a></li>
+								</ul>
+			</div>
+          
+		  <div class="col-xs-12 col-sm-12 col-md-5 col-md-offset-7 Are-you-author">
+             <div class="closeicon-home" id="hide"></div>            
+       <div class="inneroverlay">
+        	<h1><span>Welcome to AllAuthor.</span> <br>Discover new authors, eBooks and deals.</h1>
+            <center><a id="sign_up_modal" data-toggle="modal" data-target="#loginModal" data-backdrop="static" data-keyboard="false" href="javascript:void(0)" onclick="showSignUp();"><button class="btn black-btn">JOIN NOW, IT'S FREE!</button></a><a href="https://allauthor.com/authors/"><button class="btn border-btn">DISCOVER NEW AUTHORS</button></a></center>
+            <span class="typedetail">Are you an author? <a href="join-as-an-author/">Join as an Author!</a></span>
+       </div>
+      	</div>
+        </div> 
+        </div>
+		</div>
+	<div class="section-container section-white bb bt">
+    <div class="container">
+    <div class="row">
+    <div class="col-xs-12 col-md-10 col-md-offset-1">
+    	<h3 class="heading-title align-center">Follow Our Latest Authors</h3>
+            <table id="authorDetailTbl" class="pooltable table row-bordered" style="width:100%; float:left;">
+				<tbody>      
+		            <tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/4debbyc/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20190925001825.jpg" alt="Deborah Camp" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/4debbyc/"><strong>Deborah Camp</strong></a><span class="filterclick">United States</span><a href="https://allauthor.com/author/4debbyc/books/">34 Books</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-4debbyc" type="button" onclick="doFollow('4debbyc');">Follow</button></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Contemporary Romance</span>  <span class='badge '>Historical Romance</span>  <span class='badge '>Romantic Suspense</span>  <span class='badge '>Western Romance</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/bretthumphreyauthor/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20200319234303.jpg" alt="Brett Humphrey" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/bretthumphreyauthor/"><strong>Brett Humphrey</strong></a><span class="filterclick">United States</span><a href="https://allauthor.com/author/bretthumphreyauthor/books/">4 Books</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-bretthumphreyauthor" type="button" onclick="doFollow('bretthumphreyauthor');">Follow</button><a href="https://allauthor.com/ama/bretthumphreyauthor/"><button class="btn askQuestion " title="Ask me anyting">AMA (10)</button></a></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Science Fiction</span>  <span class='badge '>Fantasy</span>  <span class='badge '>Teen & Young Adult</span>  <span class='badge '>Children's</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/nicolamay/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20191019140648.jpg" alt="Nicola May" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/nicolamay/"><strong>Nicola May</strong></a><span class="filterclick">United Kingdom</span><a href="https://allauthor.com/author/nicolamay/books/">12 Books</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-nicolamay" type="button" onclick="doFollow('nicolamay');">Follow</button></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Contemporary Romance</span>  <span class='badge '>Romance</span>  <span class='badge '>Women's Fiction</span>  <span class='badge '>Humor</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/mistyhayes/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20200319231036.jpg" alt="Misty Hayes" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/mistyhayes/"><strong>Misty Hayes</strong></a><span class="filterclick">United States</span><a href="https://allauthor.com/author/mistyhayes/books/">4 Books</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-mistyhayes" type="button" onclick="doFollow('mistyhayes');">Follow</button><a href="https://allauthor.com/ama/mistyhayes/"><button class="btn askQuestion " title="Ask me anyting">AMA (2)</button></a></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Teen & Young Adult</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/montyvern/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20200920184544.jpg" alt="Monty Vern" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/montyvern/"><strong>Monty Vern</strong></a><span class="filterclick">China</span><a href="https://allauthor.com/author/montyvern/books/">1 Book</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-montyvern" type="button" onclick="doFollow('montyvern');">Follow</button><a href="https://allauthor.com/ama/montyvern/"><button class="btn askQuestion " title="Ask me anyting">AMA (5)</button></a></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Poetry</span>  <span class='badge '>Biographies & Memoirs</span>  <span class='badge '>General Nonfiction</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/riverrmann/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20151231015515.png" alt="Larry Landgraf" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/riverrmann/"><strong>Larry Landgraf</strong></a><span class="filterclick">United States</span><a href="https://allauthor.com/author/riverrmann/books/">11 Books</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-riverrmann" type="button" onclick="doFollow('riverrmann');">Follow</button></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Action & Adventure</span>  <span class='badge '>Advice & How To</span>  <span class='badge '>Biographies & Memoirs</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/markrutherford/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20200922055040.jpg" alt="Mark Rutherford" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/markrutherford/"><strong>Mark Rutherford</strong></a><span class="filterclick">Australia</span><a href="https://allauthor.com/author/markrutherford/books/">1 Book</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-markrutherford" type="button" onclick="doFollow('markrutherford');">Follow</button></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Thrillers</span>  <span class='badge '>Historical Fiction</span>  <span class='badge '>Children's</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/sandyalvarez/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20200523032335.jpg" alt="Sandy Alvarez" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/sandyalvarez/"><strong>Sandy Alvarez</strong></a><a href="https://allauthor.com/author/sandyalvarez/books/">16 Books</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-sandyalvarez" type="button" onclick="doFollow('sandyalvarez');">Follow</button></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Romantic Suspense</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/KimGolden/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20200922000430.jpg" alt="Kim Golden" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/KimGolden/"><strong>Kim Golden</strong></a><span class="filterclick">Sweden</span><a href="https://allauthor.com/author/KimGolden/books/">16 Books</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-KimGolden" type="button" onclick="doFollow('KimGolden');">Follow</button></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Contemporary Romance</span>  <span class='badge '>Women's Fiction</span>  <span class='badge '>African American Interest</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/nlholmes/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20200422190457.jpg" alt="N.L. Holmes" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/nlholmes/"><strong>N.L. Holmes</strong></a><span class="filterclick">United States</span><a href="https://allauthor.com/author/nlholmes/books/">8 Books</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-nlholmes" type="button" onclick="doFollow('nlholmes');">Follow</button></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Historical Mysteries</span>  <span class='badge '>Historical Fiction</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/kymgrossoauthor/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20200123130220.jpg" alt="Kym Grosso" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/kymgrossoauthor/"><strong>Kym Grosso</strong></a><span class="filterclick">United States</span><a href="https://allauthor.com/author/kymgrossoauthor/books/">18 Books</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-kymgrossoauthor" type="button" onclick="doFollow('kymgrossoauthor');">Follow</button><a href="https://allauthor.com/ama/kymgrossoauthor/"><button class="btn askQuestion " title="Ask me anyting">AMA (3)</button></a></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Supernatural Suspense</span>  <span class='badge '>Contemporary Romance</span>  <span class='badge '>Romantic Suspense</span>  <span class='badge '>Paranormal Romance</span>  <span class='badge '>Romance</span>  <span class='badge '>Erotic Romance</span> <div class="bestsellerlisttag"><span class='badge badge-highlight '>Usa Today</span>  <span class='badge badge-highlight '>New York Times</span> </div></div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/eosborne/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20200901054521.jpg" alt="Erin Osborne" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/eosborne/"><strong>Erin Osborne</strong></a><span class="filterclick">United States</span><a href="https://allauthor.com/author/eosborne/books/">4 Books</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-eosborne" type="button" onclick="doFollow('eosborne');">Follow</button><a href="https://allauthor.com/ama/eosborne/"><button class="btn askQuestion " title="Ask me anyting">AMA (8)</button></a></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Contemporary Romance</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/lmb/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20200921180345.jpg" alt="Lee Maguire" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/lmb/"><strong>Lee Maguire</strong></a><span class="filterclick">USA</span><a href="https://allauthor.com/author/lmb/books/">2 Books</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-lmb" type="button" onclick="doFollow('lmb');">Follow</button><a href="https://allauthor.com/ama/lmb/"><button class="btn askQuestion " title="Ask me anyting">AMA (4)</button></a></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Thrillers</span>  <span class='badge '>Suspense</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/josifwright/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20190908065243.jpg" alt="Josif Wright" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/josifwright/"><strong>Josif Wright</strong></a><span class="filterclick">United States</span><a href="https://allauthor.com/author/josifwright/books/">1 Book</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-josifwright" type="button" onclick="doFollow('josifwright');">Follow</button><a href="https://allauthor.com/ama/josifwright/"><button class="btn askQuestion " title="Ask me anyting">AMA (5)</button></a></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Biographies & Memoirs</span>  <span class='badge '>Christian Nonfiction</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/JanetDoolaege/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20151013144735.png" alt="Janet Doolaege" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/JanetDoolaege/"><strong>Janet Doolaege</strong></a><span class="filterclick">France</span><a href="https://allauthor.com/author/JanetDoolaege/books/">8 Books</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-JanetDoolaege" type="button" onclick="doFollow('JanetDoolaege');">Follow</button></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Supernatural Suspense</span>  <span class='badge '>Women's Fiction</span>  <span class='badge '>Literary Fiction</span>  <span class='badge '>Children's</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/mlolsen4422/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20200921184342.jpg" alt="Monica L. Seibert" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/mlolsen4422/"><strong>Monica L. Seibert</strong></a><span class="filterclick">United States</span><a href="https://allauthor.com/author/mlolsen4422/books/">3 Books</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-mlolsen4422" type="button" onclick="doFollow('mlolsen4422');">Follow</button></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Children's</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/marchafox/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20180103000540.png" alt="Marcha Fox" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/marchafox/"><strong>Marcha Fox</strong></a><span class="filterclick">United States</span><a href="https://allauthor.com/author/marchafox/books/">10 Books</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-marchafox" type="button" onclick="doFollow('marchafox');">Follow</button></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Thrillers</span>  <span class='badge '>Supernatural Suspense</span>  <span class='badge '>Action & Adventure</span>  <span class='badge '>Science Fiction</span>  <span class='badge '>Teen & Young Adult</span>  <span class='badge '>Advice & How To</span>  <span class='badge '>Biographies & Memoirs</span>  <span class='badge moregenre'>General Nonfiction</span>  <span class='badge moregenre'>Religion & Spirituality</span>  <span class='badge moregenre'>Parenting</span>  <span class='show-more-genre'>more&raquo;</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/mialondonauthor/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20191210084727.jpg" alt="Mia London" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/mialondonauthor/"><strong>Mia London</strong></a><span class="filterclick">United States</span><a href="https://allauthor.com/author/mialondonauthor/books/">15 Books</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-mialondonauthor" type="button" onclick="doFollow('mialondonauthor');">Follow</button></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Erotic Romance</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/poppybrooks/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20191027072524.jpg" alt="Poppy Brooks" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/poppybrooks/"><strong>Poppy Brooks</strong></a><span class="filterclick">United States</span><a href="https://allauthor.com/author/poppybrooks/books/">6 Books</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-poppybrooks" type="button" onclick="doFollow('poppybrooks');">Follow</button></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Contemporary Romance</span>  <span class='badge '>Romantic Suspense</span>  <span class='badge '>Paranormal Romance</span>  <span class='badge '>Romance</span>  <span class='badge '>Erotic Romance</span> </div></div>
+</td></tr><tr><td><div class='row'><div class='col-xs-8 col-sm-5 col-md-4 '><div class='authorImage'><a href="https://allauthor.com/author/JacksonMarsh/"><img src="https://media.allauthor.com/images/lazy-img-author.jpg" data-src="https://media.allauthor.com/img/20181228151657.jpg" alt="Jackson Marsh" class="lazy img-thumbnail"><span class='authorType'>Pro</span></a></div><div class='authorname'><a href="https://allauthor.com/author/JacksonMarsh/"><strong>Jackson Marsh</strong></a><span class="filterclick">Greece</span><a href="https://allauthor.com/author/JacksonMarsh/books/">21 Books</a></div></div><div class='col-xs-4 col-sm-2 col-md-2 ask-author'><button class="btn black-btn" id="follow-JacksonMarsh" type="button" onclick="doFollow('JacksonMarsh');">Follow</button></div><div class='col-xs-12 col-sm-5 col-md-6 authorcategory'><span class='badge '>Mysteries</span>  <span class='badge '>Action & Adventure</span>  <span class='badge '>Erotic Romance</span>  <span class='badge '>LGBT</span> </div></div>
+</td></tr>            </tbody>
+		</table>
+     <center><a href="https://allauthor.com/authors/" title="See all Author's"><button class="btn border-btn">View all</button></a></center>
+     </div>
+     </div>
+    </div>
+</div>
+<div class="section-gray official-partners">
+	<div class="section_bg slide2"></div>
+	<div class="container">
+    	<ul class="list-parthner">
+            	<li><a href="https://allauthor.com/books/?site=amazon" title="All Amazon Books"><img src="https://media.allauthor.com/images/amazon150x80.png" class="img-responsive" title="All Amazon Books" alt="All Amazon Books"></a></li>               
+                <li><a href="https://allauthor.com/books/?site=ibooks" title="All apple iBooks Books"><img src="https://media.allauthor.com/images/ibook150x80.png" class="img-responsive" title="All apple iBooks Books" alt="All apple iBooks Books"></a></li>
+                <li><a href="https://allauthor.com/books/?site=kobo" title="All KOBO Books"><img src="https://media.allauthor.com/images/kobo150x80.png" class="img-responsive" title="All Kobo Books" alt="All Kobo Books"></a></li>                
+                <li><a href="https://allauthor.com/books/?site=bn" title="All Barnes & Novel Books"><img src="https://media.allauthor.com/images/barnes-novel150x80.png" class="img-responsive" title="All Barnes & Novel Books" alt="All Barnes & Novel Books"></a></li>
+                <li><a href="https://allauthor.com/books/?site=google" title="All Google Play Books"><img src="https://media.allauthor.com/images/googleplay150x80.png" class="img-responsive" title="All Google Play Books" alt="All Google Play Books"></a></li>
+            </ul>
+    </div>
+</div>
+<div class="section-container section-gray masonry bb" id="featured_books">
+    <div class="container">
+    <h3 class="heading-title align-center">Featured Books</h3>
+            <div style="width:100%; float:left;">
+                        <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47328/your-lights-are-out-the-river-city-mysteries-book-3/" title="Your Lights are Out: The River City Mysteries - Book 3"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/307620200905232858.jpg" title="Your Lights are Out: The River City Mysteries - Book 3" alt="Your Lights are Out: The River City Mysteries - Book 3"></span></a>
+            <h4><a href="https://allauthor.com/book/47328/your-lights-are-out-the-river-city-mysteries-book-3/" title="Your Lights are Out: The River City Mysteries - Book 3">Your Lights are Out: The River City Mysteries - Book 3</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/katjorgensen/" title="Kat Jorgensen" >Kat Jorgensen</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47329/your-time-is-up-the-river-city-mysteries-book-2/" title="Your Time is Up (The River City Mysteries Book 2)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/356220200905232901.jpg" title="Your Time is Up (The River City Mysteries Book 2)" alt="Your Time is Up (The River City Mysteries Book 2)"></span></a>
+            <h4><a href="https://allauthor.com/book/47329/your-time-is-up-the-river-city-mysteries-book-2/" title="Your Time is Up (The River City Mysteries Book 2)">Your Time is Up (The River City Mysteries Book 2)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/katjorgensen/" title="Kat Jorgensen" >Kat Jorgensen</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/28382/maximum-yield-book-2-desire-luxury-wine/" title="Maximum Yield: Book 2 Desire & Luxury Wine"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/263720190319225315.jpg" title="Maximum Yield: Book 2 Desire & Luxury Wine" alt="Maximum Yield: Book 2 Desire & Luxury Wine"></span></a>
+            <h4><a href="https://allauthor.com/book/28382/maximum-yield-book-2-desire-luxury-wine/" title="Maximum Yield: Book 2 Desire & Luxury Wine">Maximum Yield: Book 2 Desire & Luxury Wine</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/dianasobolewski/" title="Diana Sobolewski" >Diana Sobolewski</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/45845/the-never-list/" title="The Never List"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/20200727010517.jpg" title="The Never List" alt="The Never List"></span></a>
+            <h4><a href="https://allauthor.com/book/45845/the-never-list/" title="The Never List">The Never List</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/dlwhite/" title="DL White" >Dominique White</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/46374/joan-and-the-juggernaut-a-scifi-alien-romance-alien-abduction-book-10/" title="Joan and the Juggernaut: A SciFi Alien Romance (Alien Abduction Book 10)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/247320200814051642.jpg" title="Joan and the Juggernaut: A SciFi Alien Romance (Alien Abduction Book 10)" alt="Joan and the Juggernaut: A SciFi Alien Romance (Alien Abduction Book 10)"></span></a>
+            <h4><a href="https://allauthor.com/book/46374/joan-and-the-juggernaut-a-scifi-alien-romance-alien-abduction-book-10/" title="Joan and the Juggernaut: A SciFi Alien Romance (Alien Abduction Book 10)">Joan and the Juggernaut: A SciFi Alien Romance (Alien Abduction Book 10)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/honey/" title="Honey Phillips" >Honey Phillips</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/46321/forever-eve/" title="Forever Eve"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/273720200812015924.jpg" title="Forever Eve" alt="Forever Eve"></span></a>
+            <h4><a href="https://allauthor.com/book/46321/forever-eve/" title="Forever Eve">Forever Eve</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/jblexington/" title="JB Lexington" >JB Lexington</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/48069/joannas-journey-the-joanna-books-book-1/" title="Joanna's Journey (The Joanna Books Book 1)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/810020200922201428.jpg" title="Joanna's Journey (The Joanna Books Book 1)" alt="Joanna's Journey (The Joanna Books Book 1)"></span></a>
+            <h4><a href="https://allauthor.com/book/48069/joannas-journey-the-joanna-books-book-1/" title="Joanna's Journey (The Joanna Books Book 1)">Joanna's Journey (The Joanna Books Book 1)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/kazzmoss/" title="Karen J Mossman" >Karen J Mossman</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/46103/halloween-haiku/" title="Halloween Haiku"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/991420200804233937.jpg" title="Halloween Haiku" alt="Halloween Haiku"></span></a>
+            <h4><a href="https://allauthor.com/book/46103/halloween-haiku/" title="Halloween Haiku">Halloween Haiku</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/carolsmithwrites/" title="Carol Smith" >Carol Smith</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/40627/caintuck-lies-within-my-soul/" title="Caintuck LIes Within My Soul"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/20200320234836.jpg" title="Caintuck LIes Within My Soul" alt="Caintuck LIes Within My Soul"></span></a>
+            <h4><a href="https://allauthor.com/book/40627/caintuck-lies-within-my-soul/" title="Caintuck LIes Within My Soul">Caintuck LIes Within My Soul</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/cmhuddleston/" title="C.M. Huddleston" >C.M. Huddleston</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/31485/giant-killer-bats-of-alamogordo/" title="Giant Killer Bats of Alamogordo"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/20200921202403.jpg" title="Giant Killer Bats of Alamogordo" alt="Giant Killer Bats of Alamogordo"></span></a>
+            <h4><a href="https://allauthor.com/book/31485/giant-killer-bats-of-alamogordo/" title="Giant Killer Bats of Alamogordo">Giant Killer Bats of Alamogordo</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/jackmorse/" title="Jack Morse" >Jack Morse</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47838/henry-dad-bod-doms-book-2/" title="Henry (Dad Bod Doms Book 2)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/621420200917225847.jpg" title="Henry (Dad Bod Doms Book 2)" alt="Henry (Dad Bod Doms Book 2)"></span></a>
+            <h4><a href="https://allauthor.com/book/47838/henry-dad-bod-doms-book-2/" title="Henry (Dad Bod Doms Book 2)">Henry (Dad Bod Doms Book 2)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/raisagreywood/" title="Raisa Greywood" >Raisa Greywood</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/42923/ravenous-taking-care-of-him/" title="Ravenous: Taking Care of Him"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/355220200519072837.jpg" title="Ravenous: Taking Care of Him" alt="Ravenous: Taking Care of Him"></span></a>
+            <h4><a href="https://allauthor.com/book/42923/ravenous-taking-care-of-him/" title="Ravenous: Taking Care of Him">Ravenous: Taking Care of Him</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/sylviahubbardhutula/" title="Sylvia Hubbard" >Sylvia Hubbard</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47964/mountain-of-full-moons-a-novel/" title="Mountain of Full Moons: A Novel"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/289020200919173259.jpg" title="Mountain of Full Moons: A Novel" alt="Mountain of Full Moons: A Novel"></span></a>
+            <h4><a href="https://allauthor.com/book/47964/mountain-of-full-moons-a-novel/" title="Mountain of Full Moons: A Novel">Mountain of Full Moons: A Novel</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/irenekessler/" title="Irene Kessler" >Irene Kessler</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/38779/the-lonely-life-of-a-pornographers-wife/" title="The Lonely Life of a Pornographer's Wife"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/124920200122043501.jpg" title="The Lonely Life of a Pornographer's Wife" alt="The Lonely Life of a Pornographer's Wife"></span></a>
+            <h4><a href="https://allauthor.com/book/38779/the-lonely-life-of-a-pornographers-wife/" title="The Lonely Life of a Pornographer's Wife">The Lonely Life of a Pornographer's Wife</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/sherman1/" title="J. Carol Johnson" >J.Carol Johnson</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47891/del-mar/" title="Del Mar"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/499220200918233044.jpg" title="Del Mar" alt="Del Mar"></span></a>
+            <h4><a href="https://allauthor.com/book/47891/del-mar/" title="Del Mar">Del Mar</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/johneriddle/" title="John E Riddle" >John  E. Riddle</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47881/the-contortionist-harrow-faire-book-1/" title="The Contortionist (Harrow Faire Book 1)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/782920200918231648.jpg" title="The Contortionist (Harrow Faire Book 1)" alt="The Contortionist (Harrow Faire Book 1)"></span></a>
+            <h4><a href="https://allauthor.com/book/47881/the-contortionist-harrow-faire-book-1/" title="The Contortionist (Harrow Faire Book 1)">The Contortionist (Harrow Faire Book 1)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/kathrynkingsley/" title="Kathryn Kingsley" >Kathryn Ann Kingsley</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47749/the-emerald-brotherhood-the-leagues-book-1/" title="The Emerald Brotherhood (The Leagues Book 1)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/341820200915021928.jpg" title="The Emerald Brotherhood (The Leagues Book 1)" alt="The Emerald Brotherhood (The Leagues Book 1)"></span></a>
+            <h4><a href="https://allauthor.com/book/47749/the-emerald-brotherhood-the-leagues-book-1/" title="The Emerald Brotherhood (The Leagues Book 1)">The Emerald Brotherhood (The Leagues Book 1)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/janthonyoaks/" title="J. Anthony Oaks" >J. Anthony Oaks</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47825/logan-dad-bod-doms-book-1/" title="Logan (Dad Bod Doms Book 1)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/153820200917073606.jpg" title="Logan (Dad Bod Doms Book 1)" alt="Logan (Dad Bod Doms Book 1)"></span></a>
+            <h4><a href="https://allauthor.com/book/47825/logan-dad-bod-doms-book-1/" title="Logan (Dad Bod Doms Book 1)">Logan (Dad Bod Doms Book 1)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/goldeniangel/" title="Golden Angel" >Golden  Angel</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47555/after-the-bombs-part-i-the-invasion/" title="After the Bombs: Part I: The Invasion"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/937320200910220611.jpg" title="After the Bombs: Part I: The Invasion" alt="After the Bombs: Part I: The Invasion"></span></a>
+            <h4><a href="https://allauthor.com/book/47555/after-the-bombs-part-i-the-invasion/" title="After the Bombs: Part I: The Invasion">After the Bombs: Part I: The Invasion</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/mariettastandlee/" title="Marietta Standlee" >Marietta Standlee</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/43823/house-of-the-golden-butterfly-a-ghost-story-the-house-of-restless-souls-book-1/" title="House Of The Golden Butterfly: A Ghost Story (The House Of Restless Souls Book 1)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/454220200610053558.jpg" title="House Of The Golden Butterfly: A Ghost Story (The House Of Restless Souls Book 1)" alt="House Of The Golden Butterfly: A Ghost Story (The House Of Restless Souls Book 1)"></span></a>
+            <h4><a href="https://allauthor.com/book/43823/house-of-the-golden-butterfly-a-ghost-story-the-house-of-restless-souls-book-1/" title="House Of The Golden Butterfly: A Ghost Story (The House Of Restless Souls Book 1)">House Of The Golden Butterfly: A Ghost Story (The House Of Restless Souls Book 1)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/bgroves/" title="Barbara Groves" >B. Groves</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/28120/water-desires-loves-siren-song-book-ii/" title="Water Desires (Loves Siren Song, Book II)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/283220190312222904.jpg" title="Water Desires (Loves Siren Song, Book II)" alt="Water Desires (Loves Siren Song, Book II)"></span></a>
+            <h4><a href="https://allauthor.com/book/28120/water-desires-loves-siren-song-book-ii/" title="Water Desires (Loves Siren Song, Book II)">Water Desires (Loves Siren Song, Book II)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/Katherinesmits/" title="Katherine Eddinger Smits" >Katherine Smits</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/40567/coyotes-of-creek-crossing-second-in-the-mockingbird-hill-series/" title="Coyotes of Creek Crossing, Second in the Mockingbird Hill Series"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/516520200318181649.jpg" title="Coyotes of Creek Crossing, Second in the Mockingbird Hill Series" alt="Coyotes of Creek Crossing, Second in the Mockingbird Hill Series"></span></a>
+            <h4><a href="https://allauthor.com/book/40567/coyotes-of-creek-crossing-second-in-the-mockingbird-hill-series/" title="Coyotes of Creek Crossing, Second in the Mockingbird Hill Series">Coyotes of Creek Crossing, Second in the Mockingbird Hill Series</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/dkmr2008/" title="Dorothy K Morris" >Dorothy K  Morris</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/24681/dinner-at-sams-a-rubys-novel/" title="Dinner at Sam's: A Ruby's Novel"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/643320181017235125.jpg" title="Dinner at Sam's: A Ruby's Novel" alt="Dinner at Sam's: A Ruby's Novel"></span></a>
+            <h4><a href="https://allauthor.com/book/24681/dinner-at-sams-a-rubys-novel/" title="Dinner at Sam's: A Ruby's Novel">Dinner at Sam's: A Ruby's Novel</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/dlwhite/" title="DL White" >DL White</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47763/the-brotherhood-of-the-black-flag-a-novel-of-the-golden-age-of-piracy/" title="The Brotherhood of the Black Flag: A Novel of the Golden Age of Piracy"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/861820200915175531.jpg" title="The Brotherhood of the Black Flag: A Novel of the Golden Age of Piracy" alt="The Brotherhood of the Black Flag: A Novel of the Golden Age of Piracy"></span></a>
+            <h4><a href="https://allauthor.com/book/47763/the-brotherhood-of-the-black-flag-a-novel-of-the-golden-age-of-piracy/" title="The Brotherhood of the Black Flag: A Novel of the Golden Age of Piracy">The Brotherhood of the Black Flag: A Novel of the Golden Age of Piracy</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/incspot/" title="Ian Nathaniel Cohen" >Ian Nathaniel Cohen</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/37363/harris-detonation-book-2/" title="HARRIS (Detonation Book 2)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/968220200201193914.jpg" title="HARRIS (Detonation Book 2)" alt="HARRIS (Detonation Book 2)"></span></a>
+            <h4><a href="https://allauthor.com/book/37363/harris-detonation-book-2/" title="HARRIS (Detonation Book 2)">HARRIS (Detonation Book 2)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/scorpio51/" title="Eldon Kellogg" >Eldon Kellogg</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47756/jealous-not-me/" title="Jealous - Not Me!"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/728520200915114448.jpg" title="Jealous - Not Me!" alt="Jealous - Not Me!"></span></a>
+            <h4><a href="https://allauthor.com/book/47756/jealous-not-me/" title="Jealous - Not Me!">Jealous - Not Me!</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/jflowe/" title="J.F. Lowe" >J.F. Lowe</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47755/septembers-moonlight-serenade-twelve-months-twelve-love-stories-book-7/" title="September's Moonlight Serenade (Twelve Months, Twelve Love Stories Book 7)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/616820200915063000.jpg" title="September's Moonlight Serenade (Twelve Months, Twelve Love Stories Book 7)" alt="September's Moonlight Serenade (Twelve Months, Twelve Love Stories Book 7)"></span></a>
+            <h4><a href="https://allauthor.com/book/47755/septembers-moonlight-serenade-twelve-months-twelve-love-stories-book-7/" title="September's Moonlight Serenade (Twelve Months, Twelve Love Stories Book 7)">September's Moonlight Serenade (Twelve Months, Twelve Love Stories Book 7)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/lbjoyce/" title="L. B. Joyce" >L. B. Joyce</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/45280/i-never-knew-you/" title="I Never Knew You"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/184320200711015513.jpg" title="I Never Knew You" alt="I Never Knew You"></span></a>
+            <h4><a href="https://allauthor.com/book/45280/i-never-knew-you/" title="I Never Knew You">I Never Knew You</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/PatrickHiggins/" title="Patrick Higgins" >Patrick Higgins</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/34901/the-final-rescue-freedom-fight-trilogy-book-3/" title="The Final Rescue  (Freedom Fight Trilogy Book 3)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/165220200716065635.jpg" title="The Final Rescue  (Freedom Fight Trilogy Book 3)" alt="The Final Rescue  (Freedom Fight Trilogy Book 3)"></span></a>
+            <h4><a href="https://allauthor.com/book/34901/the-final-rescue-freedom-fight-trilogy-book-3/" title="The Final Rescue  (Freedom Fight Trilogy Book 3)">The Final Rescue  (Freedom Fight Trilogy Book 3)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/haskinauthor/" title="Jennifer Haskin" >Jennifer Haskin</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47629/the-queenmakers-saga-box-set-books-1-4-epic-fantasy-romance-series/" title="The Queenmakers Saga Box Set (Books 1-4): Epic Fantasy Romance Series"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/826320200912122836.jpg" title="The Queenmakers Saga Box Set (Books 1-4): Epic Fantasy Romance Series" alt="The Queenmakers Saga Box Set (Books 1-4): Epic Fantasy Romance Series"></span></a>
+            <h4><a href="https://allauthor.com/book/47629/the-queenmakers-saga-box-set-books-1-4-epic-fantasy-romance-series/" title="The Queenmakers Saga Box Set (Books 1-4): Epic Fantasy Romance Series">The Queenmakers Saga Box Set (Books 1-4): Epic Fantasy Romance Series</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/bernadetter/" title="Bernadette Rowley" >Bernadette Rowley</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47644/the-voice-from-808-one-wrong-number-changes-everything/" title="The Voice From 808: One Wrong Number Changes Everything"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/337320200912223105.jpg" title="The Voice From 808: One Wrong Number Changes Everything" alt="The Voice From 808: One Wrong Number Changes Everything"></span></a>
+            <h4><a href="https://allauthor.com/book/47644/the-voice-from-808-one-wrong-number-changes-everything/" title="The Voice From 808: One Wrong Number Changes Everything">The Voice From 808: One Wrong Number Changes Everything</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/sandrasigfusson/" title="Sandra Sigfusson" >Sandra A. Sigfusson</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47642/building-blocks/" title="Building Blocks"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/937120200912205730.jpg" title="Building Blocks" alt="Building Blocks"></span></a>
+            <h4><a href="https://allauthor.com/book/47642/building-blocks/" title="Building Blocks">Building Blocks</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/kevindomenic/" title="Kevin Domenic" >Kevin Domenic</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47643/fearless-fated-mates-book-5/" title="Fearless (Fated Mates Book 5)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/651220200912210415.jpg" title="Fearless (Fated Mates Book 5)" alt="Fearless (Fated Mates Book 5)"></span></a>
+            <h4><a href="https://allauthor.com/book/47643/fearless-fated-mates-book-5/" title="Fearless (Fated Mates Book 5)">Fearless (Fated Mates Book 5)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/lillicarlisle/" title="Lilli Carlisle" >Lilli Carlisle</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47633/gift-of-the-mancynn-the-ragnark-chronicles-2016-book-1/" title="Gift of the Mancynn (The Ragnarök Chronicles: 2016 Book 1)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/161420200912142500.jpg" title="Gift of the Mancynn (The Ragnarök Chronicles: 2016 Book 1)" alt="Gift of the Mancynn (The Ragnarök Chronicles: 2016 Book 1)"></span></a>
+            <h4><a href="https://allauthor.com/book/47633/gift-of-the-mancynn-the-ragnark-chronicles-2016-book-1/" title="Gift of the Mancynn (The Ragnarök Chronicles: 2016 Book 1)">Gift of the Mancynn (The Ragnarök Chronicles: 2016 Book 1)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/DominicHodgson/" title="Dominic Hodgson" >Dominic Hodgson</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/43799/tionsphere-tion-book-1/" title="Tionsphere (Tion Book 1)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/583620200609183321.jpg" title="Tionsphere (Tion Book 1)" alt="Tionsphere (Tion Book 1)"></span></a>
+            <h4><a href="https://allauthor.com/book/43799/tionsphere-tion-book-1/" title="Tionsphere (Tion Book 1)">Tionsphere (Tion Book 1)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/jcgemmell/" title="J.C. Gemmell" >J.C. Gemmell</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/39752/faye-a-moving-victorian-tale/" title="Faye: A moving Victorian tale"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/466420200218221127.jpg" title="Faye: A moving Victorian tale" alt="Faye: A moving Victorian tale"></span></a>
+            <h4><a href="https://allauthor.com/book/39752/faye-a-moving-victorian-tale/" title="Faye: A moving Victorian tale">Faye: A moving Victorian tale</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/Lilly/" title="Lilly Adam" >Lilly Adam</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47621/texas-troubles-cross-timbers-family-saga-book-5-thanksgiving-books-blessings-collection-three-2/" title="Texas Troubles: Cross Timbers Family Saga Book 5 (Thanksgiving Books & Blessings Collection Three 2)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/371620200912092617.jpg" title="Texas Troubles: Cross Timbers Family Saga Book 5 (Thanksgiving Books & Blessings Collection Three 2)" alt="Texas Troubles: Cross Timbers Family Saga Book 5 (Thanksgiving Books & Blessings Collection Three 2)"></span></a>
+            <h4><a href="https://allauthor.com/book/47621/texas-troubles-cross-timbers-family-saga-book-5-thanksgiving-books-blessings-collection-three-2/" title="Texas Troubles: Cross Timbers Family Saga Book 5 (Thanksgiving Books & Blessings Collection Three 2)">Texas Troubles: Cross Timbers Family Saga Book 5 (Thanksgiving Books & Blessings Collection Three 2)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/carylmcadoo/" title="Caryl McAdoo" >Caryl McAdoo</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/33458/the-christoph-curse/" title="The Christoph Curse"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/672720200214022050.jpg" title="The Christoph Curse" alt="The Christoph Curse"></span></a>
+            <h4><a href="https://allauthor.com/book/33458/the-christoph-curse/" title="The Christoph Curse">The Christoph Curse</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/mjmiller/" title="MJ Miller" >MJ Miller</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47597/the-persistence-of-memory-book-4-w-i-s-e-men/" title="The Persistence of Memory Book 4: W.I.S.E. Men"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/536020200911220154.jpg" title="The Persistence of Memory Book 4: W.I.S.E. Men" alt="The Persistence of Memory Book 4: W.I.S.E. Men"></span></a>
+            <h4><a href="https://allauthor.com/book/47597/the-persistence-of-memory-book-4-w-i-s-e-men/" title="The Persistence of Memory Book 4: W.I.S.E. Men">The Persistence of Memory Book 4: W.I.S.E. Men</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/kjanowsky/" title="Karen Janowsky" >Karen Janowsky</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/1748/santas-birthday-gift/" title="Santa's Birthday Gift"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/20191126212741.jpg" title="Santa's Birthday Gift" alt="Santa's Birthday Gift"></span></a>
+            <h4><a href="https://allauthor.com/book/1748/santas-birthday-gift/" title="Santa's Birthday Gift">Santa's Birthday Gift</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/sherrillcannon/" title="Sherrill S Cannon" >Sherrill S. Cannon</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47493/scarlottes-memoirs-call-me-at-8pm/" title="Scarlotte's Memoirs: Call me at 8pm"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/906820200909102316.jpg" title="Scarlotte's Memoirs: Call me at 8pm" alt="Scarlotte's Memoirs: Call me at 8pm"></span></a>
+            <h4><a href="https://allauthor.com/book/47493/scarlottes-memoirs-call-me-at-8pm/" title="Scarlotte's Memoirs: Call me at 8pm">Scarlotte's Memoirs: Call me at 8pm</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/joannebentley/" title="Joanne Bentley" >Joanne Bentley</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/19791/the-apprenticeship-of-nigel-blackthorn/" title="The Apprenticeship of Nigel Blackthorn"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/554520180419224142.jpg" title="The Apprenticeship of Nigel Blackthorn" alt="The Apprenticeship of Nigel Blackthorn"></span></a>
+            <h4><a href="https://allauthor.com/book/19791/the-apprenticeship-of-nigel-blackthorn/" title="The Apprenticeship of Nigel Blackthorn">The Apprenticeship of Nigel Blackthorn</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/frank0/" title="Frank Kelso" >Frank Kelso</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47207/trapped-within-a-dream/" title="Trapped Within a Dream"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/20200913194614.jpg" title="Trapped Within a Dream" alt="Trapped Within a Dream"></span></a>
+            <h4><a href="https://allauthor.com/book/47207/trapped-within-a-dream/" title="Trapped Within a Dream">Trapped Within a Dream</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/jpuvalle/" title="J. P. Uvalle" >J. P.  Uvalle</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47552/a-crown-of-blood/" title="A Crown of Blood"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/922320200910220324.jpg" title="A Crown of Blood" alt="A Crown of Blood"></span></a>
+            <h4><a href="https://allauthor.com/book/47552/a-crown-of-blood/" title="A Crown of Blood">A Crown of Blood</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/mariettastandlee/" title="Marietta Standlee" >Marietta Standlee</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47524/storybook-inc/" title="Storybook, Inc."> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/290520200911192907.jpg" title="Storybook, Inc." alt="Storybook, Inc."></span></a>
+            <h4><a href="https://allauthor.com/book/47524/storybook-inc/" title="Storybook, Inc.">Storybook, Inc.</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/ptpace/" title="Parker Pace" >Parker Pace</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/42344/a-witchs-tale-eden-prairie/" title="A Witch's Tale (Eden Prairie)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/488220200507182813.jpg" title="A Witch's Tale (Eden Prairie)" alt="A Witch's Tale (Eden Prairie)"></span></a>
+            <h4><a href="https://allauthor.com/book/42344/a-witchs-tale-eden-prairie/" title="A Witch's Tale (Eden Prairie)">A Witch's Tale (Eden Prairie)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/judykentrus/" title="Judy Kentrus" >Judy Kentrus</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/46893/the-dark-awakening-a-paranormal-vampire-series-second-edition-the-chosen-coven-book-1/" title="The Dark Awakening: A Paranormal Vampire Series, Second Edition (The Chosen Coven Book 1)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/547720200827020650.jpg" title="The Dark Awakening: A Paranormal Vampire Series, Second Edition (The Chosen Coven Book 1)" alt="The Dark Awakening: A Paranormal Vampire Series, Second Edition (The Chosen Coven Book 1)"></span></a>
+            <h4><a href="https://allauthor.com/book/46893/the-dark-awakening-a-paranormal-vampire-series-second-edition-the-chosen-coven-book-1/" title="The Dark Awakening: A Paranormal Vampire Series, Second Edition (The Chosen Coven Book 1)">The Dark Awakening: A Paranormal Vampire Series, Second Edition (The Chosen Coven Book 1)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/dlblade/" title="D.L. Blade" >D.L. Blade</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47528/heartless-bastard-a-hero-club-novel/" title="Heartless Bastard : A Hero Club Novel"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/440020200910015716.jpg" title="Heartless Bastard : A Hero Club Novel" alt="Heartless Bastard : A Hero Club Novel"></span></a>
+            <h4><a href="https://allauthor.com/book/47528/heartless-bastard-a-hero-club-novel/" title="Heartless Bastard : A Hero Club Novel">Heartless Bastard : A Hero Club Novel</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/tonyabrooksauthor/" title="Tonya Brooks" >Tonya  Brooks </a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/47497/tumble-the-35th-parallel/" title="Tumble: The 35th Parallel"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/683220200909153645.jpg" title="Tumble: The 35th Parallel" alt="Tumble: The 35th Parallel"></span></a>
+            <h4><a href="https://allauthor.com/book/47497/tumble-the-35th-parallel/" title="Tumble: The 35th Parallel">Tumble: The 35th Parallel</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/bobtriggs/" title="Bob Triggs" >Bob Triggs</a></span>			
+			</div>
+            </div>
+                         <div class="book-item-slide"> 
+            <div class="book-author"><a href="https://allauthor.com/book/33121/heart-of-a-warrior-immortal-warriors-book-4/" title="Heart of a Warrior (Immortal Warriors Book 4)"> <span class="Book-before"><img class='lazy' src=https://media.allauthor.com/images/lazy-img-book-new.jpg data-src="https://media.allauthor.com/book/thumb/634320200715235318.jpg" title="Heart of a Warrior (Immortal Warriors Book 4)" alt="Heart of a Warrior (Immortal Warriors Book 4)"></span></a>
+            <h4><a href="https://allauthor.com/book/33121/heart-of-a-warrior-immortal-warriors-book-4/" title="Heart of a Warrior (Immortal Warriors Book 4)">Heart of a Warrior (Immortal Warriors Book 4)</a></h4>
+            <span class="book-writer">by: <a href="https://allauthor.com/author/dennholm/" title="Denna Holm" >Denna Holm</a></span>			
+			</div>
+            </div>
+                      <a href="https://allauthor.com/books/" title="See all Books" class="col-xs-12 center"><button class="btn border-btn">Book Directory</button></a>
+            </div>
+            </div>
+    </div>
+<div class="section-gray mobile-app">
+<i class="fa fa-close pull-right" id="off"></i>
+<div class="container">
+<div class="col-sm-7">
+<img class="logo" src="https://allauthor.com/images/app-launcher.png" alt="AllAuthor App">
+<p><strong>AllAuthor Mobile App</strong><br /> Discover authors, free & bargain ebooks.</p>
+</div>
+<div class="col-sm-5 app-btn">
+<a href="#"><img src="https://allauthor.com/images/ios-btn.png"  alt=""></a>
+<a href="https://play.google.com/store/apps/details?id=com.lmntech.allauthor" target="_blank"><img src="https://allauthor.com/images/android-btn.png"  alt=""></a>
+</div>
+</div>
+</div>
+
+</div>
+<!-- Modal -->
+
+  <div class="modal fade loginModal" id="loginModal" role="dialog" >
+    <div class="modal-dialog modal-sm">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+         <img src="https://allauthor.com/images/allauthor-logo2.png" class="img-responsive">
+        </div>
+        <div class="modal-body">
+        <div class="tab-content">
+        <div id="Login" class="center" style="color:#d9534f;"></div>
+        <div role="tabpanel" class="tab-pane active" id="defaultlogin">		
+		
+				
+		<div class="heading" id='fblogin'><fb:login-button  data-size="medium" data-show-faces="false" data-auto-logout-link="false"  scope="public_profile,email" data-button-type="login_with" data-use-continue-as="true"  onlogin="checkLoginState();"> </fb:login-button></div>
+		         	<div class="heading">LOGIN WITH YOUR EMAIL ID</div>         	  
+		  <div class="alert alert-danger" id="success-alert-login" style="display:none;"></div>				
+			<span class="form-group">
+            	<!--<label>Username / Email</label>-->
+            	<input id="username" class="form-control"  type="text" placeholder="Username / Email">
+            	<span class="alertText" id="username_error">Please enter your email!</span>
+		    </span>
+            <span class="form-group">
+           	 	<!--<label>Password</label>-->
+            	<input id="password" class="form-control"  type="password" placeholder="Password">
+            	<span class="alertText" id="password_error">Please enter your password here!</span>
+            </span>
+            <span class="form-group">
+            	<button type="button" onclick="Login()" class="btn black-btn">Login</button>
+            </span>
+			<p><a href="#forgotpassword" aria-controls="login" role="tab" data-toggle="tab">Forgotten your password?</a>
+			<!--<br> Are you an Author? <a href="#" title="">Join as an author</a>--></p>
+             <span class="form-group center">
+			 <p> New to AllAuthor.</p>
+            	<button class="btn default-border-btn" href="#defaultsignup" id="sign_up_btn" aria-controls="login" role="tab" data-toggle="tab" class="active">Signup</button>
+            </span>
+        </div>
+        <div role="tabpanel" class="tab-pane" id="forgotpassword">
+         	<div class="heading">Forgot your password</div>
+          <div class="alert alert-danger" id="success-alert-forget" style="display:none;">                   
+                </div>
+			<span class="form-group">
+            	<label>Email</label>
+            	<input id="forgotEmail" class="form-control"  type="text" placeholder="Email">
+            	<span class="alertText" >Please enter your email!</span>
+		    </span>
+            <span class="form-group">
+            	<button type="button" onclick="forgotPass()" class="btn black-btn">Reset Password</button>
+            </span>
+			<span class="form-group center">
+          <button class="btn default-border-btn" href="#defaultsignup" aria-controls="login" role="tab" data-toggle="tab">Sign up</button>
+            </span>
+        </div>
+        <div role="tabpanel" class="tab-pane" id="defaultsignup">
+		<div class="heading" id='fblogin'><fb:login-button  data-size="medium" data-show-faces="false" data-auto-logout-link="false"  scope="public_profile,email" data-button-type="login_with" data-use-continue-as="true"  onlogin="checkLoginState();"> </fb:login-button></div>
+		
+        	<div class="heading">SIGNUP WITH EMAIL</div>
+            <span class="form-group">
+         Are you an Author? <br><a href="https://allauthor.com/join-as-an-author/" title="" class="active">Click here to Join as an Author</a>. 
+            </span>                
+				<div class="alert alert-danger" id="success-alert" style="display:none;">
+                    <button type="button" class="close" data-dismiss="alert">x</button>
+                </div>
+				
+			<span class="form-group">
+             	
+            	<select id='readerProgram' class="form-control"><option value='N'>I am a Reader</option><option value='Y'>I am an Author</option></select>
+            </span>
+			
+          <span class="form-group">
+          	 	<!--<label>Full Name</label>-->
+            	<input id="name" class="form-control" type="text" placeholder="Full Name">
+            </span>
+          	<span class="form-group">
+             	<!--<label>Email</label>-->
+            	<input id="email" class="form-control" type="text" placeholder="Email">
+            </span>
+			<span class="form-group">
+             	<!--<label>Password</label>	-->
+            	<input id="r_username" class="form-control" type="text" placeholder="Username">
+            </span>
+            <span class="form-group">
+             	<!--<label>Password</label>	-->
+            	<input id="r_password" class="form-control" type="password" placeholder="Create a password">
+            </span>
+           
+			<span class="form-group">
+            	<button type="button" onClick="Register_reader();" class="btn black-btn">Signup</button>
+            </span>
+             <!--<p>By signing up, you agree to Allauthor <a href="https://allauthor.com/term-and-condition/" title="AllAuthor Terms of Service">Terms of Service</a> and <a href="https://allauthor.com/privacy/" title="Privacy Policy">Privacy Policy</a></p>-->
+             <span class="form-group center">
+			<p> Already have an account.</p>
+            	<button id="login_up_btn" type="button" class="btn default-border-btn" href="#defaultlogin" aria-controls="login" role="tab" data-toggle="tab" class="active">Login</button>
+            </span>
+        </div>
+        </div>
+        </div>
+        <div class="modal-footer">
+        </div>
+      </div>
+    </div>
+  </div>
+<script>
+$( document ).ready(function() {
+  var sitePathJs = $("#sitePath").val();
+	$('#r_username').keypress(function (eU) {
+	var regexU = new RegExp("^[a-zA-Z0-9]+$");
+	var backspaceU = eU.keyCode;
+    var strU = String.fromCharCode(!eU.charCode ? eU.which : eU.charCode);
+    if (regexU.test(strU)) {
+        return true;
+    }
+    eU.preventDefault();
+    return false;
+});
+
+$("#readerProgram").change(function(){
+	var value =  $(this).val();
+	if(value=="Y")
+		alert ("This is a reader signup form. We are redirecting you to author registation page");
+		window.location.href=sitePathJs+'/join-as-an-author/';
+	
+});
+});
+
+</script><div class="all_footer">
+    <div class="all_footerinner">
+    <div class="section_bg slide2" style="opacity:0.02;"></div>
+    <div class="container footerlink">
+      <div class="row">
+        <div class="col-md-5 col-xs-12">
+          <ul class="footer_stats">
+            <li><img src="https://media.allauthor.com/images/author-icon.png" class="img-responsive" alt=""><span>11,088<p>Authors</p></span></li>
+            <li><img src="https://media.allauthor.com/images/users-icon.png" class="img-responsive" alt=""><span>297,623<p>Readers</p></span></li>
+            <li><img src="https://media.allauthor.com/images/books-icon.png" class="img-responsive" alt=""><span>47,756<p>books</p></span></li>
+            <li><img src="https://media.allauthor.com/images/quote-icon.png" class="img-responsive" alt=""><span>240,985<p>Quotes</p></span></li>
+            <li><img src="https://media.allauthor.com/images/discussion-ic.png" class="img-responsive" alt=""><span>25,419<p>Discussion</p></span></li>
+            <li><img src="https://media.allauthor.com/images/month-icon.png" class="img-responsive" alt=""><span>34.7Million<p>Page Views</p></span>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-2 col-xs-12 clearP">
+          <!--<ul class="footer_icon">
+            <li><a href="https://www.facebook.com/allauthorpage" title=""><i class="fa fa-facebook" aria-hidden="true"></i><span>Facebook</span></a></li>
+            <li><a href="https://twitter.com/allauthor" title=""><i class="fa fa-twitter" aria-hidden="true"></i><span>Twitter</span></a></li>
+            <li><a href="https://in.linkedin.com/in/quotesrain" title=""><i class="fa fa-linkedin" aria-hidden="true"></i><span>Linkedin</span></a></li>
+            <li><a href="https://www.pinterest.com/quotesrain/" title=""><i class="fa fa-pinterest" aria-hidden="true"></i><span>Pinterest</span></a></li>
+            <li><a href="https://www.instagram.com/allauthor/" title=""><i class="fa fa-instagram" aria-hidden="true"></i><span>Instagram</span></a></li>
+          </ul>-->
+          <div class="alliance_box">
+          <a href="https://allianceindependentauthors.org/?affid=7589"><img src="https://allianceindependentauthors.org/members/banners/ALLi-Partner-Member-Badge.png" width="80px" alt="Alliance of Independent Authors /"></a>
+
+          <p>AllAuthor is a proud member of The Alliance of Independent Authors.</p>
+          </div>
+        </div>
+        <div class="col-md-5 col-xs-12 footer_testi">
+         <div class="testi_box">
+            <h4>Quote of the Day</h4>
+            		<blockquote><h3><a href="https://allauthor.com/quotes/116521/" title="Take no heed of her She reads a lot of books" alt="Take no heed of her She reads a lot of books"> Take no heed of her....  She reads a lot of books.</a></h3></blockquote>
+            <span class="testi_name">
+              <span class="s-share"><a href="javascript:void(0);" onclick="qrWindow('http://www.facebook.com/sharer/sharer.php?u=https://allauthor.com/quotes/116521/',640,360);" title="Share on Facebook" data-toggle="tooltip" data-placement="top"><i class="fa fa-facebook fb-block"></i></a>
+                <a href="javascript:void(0);" onclick="qrWindow('https://twitter.com/intent/tweet?original_referer=https://allauthor.com/quotes/116521/&amp;tw_p=tweetbutton&amp;url=https://allauthor.com/quotes/116521/&amp;text=Take no heed of her She reads a lot of books...&amp;via=allauthor',640,360);" title="Share on Twitter" data-toggle="tooltip" data-placement="top"><i class="fa fa-twitter tw-block"></i></a>
+<a href="javascript:void(0);" onclick="qrWindow('https://www.pinterest.com/pin/create/button/?url=https://allauthor.com/quotes/116521/&amp;media=&amp;description=Jasper Fforde quotes',640,360);" title="Share on Pinterest" data-toggle="tooltip" data-placement="top"><i class="fa fa-pinterest pnt-block"></i>
+</a></span>
+              <a href="https://allauthor.com/quotes/author/jasper-fforde/" title="View all Jasper Fforde Quotes" alt="More Jasper Fforde Quotes">
+                Jasper Fforde              </a>
+            </span>
+          </div>          
+        </div>
+      </div>
+    </div>
+  </div>
+    <div class="all_copyright">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8 copyrighttext">
+          &copy; 
+          2020 
+          <a href="https://allauthor.com" title="Allauthor">Allauthor</a> Product of LMN Technology. All Rights Reserved. <a href="https://allauthor.com/privacy/" title="Privacy">Privacy</a> | <a href="https://allauthor.com/term-and-condition/" title="Terms and Conditions">Terms and Conditions</a> | <a href="https://allauthor.com/contact/" title="Contact Us">Contact Us</a>
+        </div>
+        <div class="col-sm-4">
+        <ul class="footer-social-share">
+            <li>Follow us:</li>
+            <li><a href="https://www.facebook.com/allauthorpage" target="_blank" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="https://twitter.com/allauthor" target="_blank" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="https://www.linkedin.com/company/allauthor/" target="_blank" data-toggle="tooltip" data-placement="top" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+            <li><a href="https://www.pinterest.com/quotesrain/" target="_blank" data-toggle="tooltip" data-placement="top" title="Pinterest"><i class="fa fa-pinterest"></i></a></li>
+            <li><a href="https://www.instagram.com/allauthor/" target="_blank" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a></li>
+          </ul>
+        </div>
+        <div class="col-xs-12 disclosure"><strong>Advertising Disclosure</strong>: Please note that many links to retailers are affiliate links, which yields a commission for us. allauthor.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon sites.</div>
+        <span style="display: block;" class="scroll_up"><i class="fa fa-chevron-up" aria-hidden="true"></i></span>
+      </div>
+    </div>
+  </div>
+</div>
+<style type="text/css">#preloader_home{display: none;}</style>
+<script>
+  // Start Preloader Script
+  $(document).ready(function () {
+    $("#preloader_home").delay(1000).fadeOut();
+    // alert ("hi")
+  }
+);
+  // End Preloader Script
+</script>
+
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<!--
+<script type="text/javascript">
+$(window).on("load",function() {
+ window.cookieconsent_options = {
+    "message":"ok this is message This website uses cookies to ensure you get the best experience on our website.","dismiss":"I Accept","learnMore":"More info","link":"https://allauthor.com/privacy/","theme":"dark-bottom"};
+	
+});	
+</script>
+-->
+<script type="text/javascript" src="https://allauthor.com/js/cookieconsent.min.js">
+</script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    // Show hide popover
+    $(".sorting_dropdw").click(function(){
+      $(this).find(".sorting_dropdw_menu").slideToggle("fast");
+    }
+                              );
+  }
+                   );
+  $(document).on("click", function(event){
+    var $trigger = $(".sorting_dropdw");
+    if($trigger !== event.target && !$trigger.has(event.target).length){
+      $(".sorting_dropdw_menu").slideUp("fast");
+    }
+  }
+                );
+</script>
+<script>
+  if(document.getElementById('toggle') !== null)
+  {
+    var theToggle = document.getElementById('toggle');
+    theToggle.onclick = function() {
+      toggleClass(this, 'on');
+      return false;
+    }
+  }
+  // based on Todd Motto functions
+  // http://toddmotto.com/labs/reusable-js/
+  // hasClass
+  function hasClass(elem, className) {
+    return new RegExp(' ' + className + ' ').test(' ' + elem.className + ' ');
+  }
+  // addClass
+  function addClass(elem, className) {
+    if (!hasClass(elem, className)) {
+      elem.className += ' ' + className;
+    }
+  }
+  // removeClass
+  function removeClass(elem, className) {
+    var newClass = ' ' + elem.className.replace( /[\t\r\n]/g, ' ') + ' ';
+    if (hasClass(elem, className)) {
+      while (newClass.indexOf(' ' + className + ' ') >= 0 ) {
+        newClass = newClass.replace(' ' + className + ' ', ' ');
+      }
+      elem.className = newClass.replace(/^\s+|\s+$/g, '');
+    }
+  }
+  // toggleClass
+  function toggleClass(elem, className) {
+    var newClass = ' ' + elem.className.replace( /[\t\r\n]/g, " " ) + ' ';
+    if (hasClass(elem, className)) {
+      while (newClass.indexOf(" " + className + " ") >= 0 ) {
+        newClass = newClass.replace( " " + className + " " , " " );
+      }
+      elem.className = newClass.replace(/^\s+|\s+$/g, '');
+    }
+    else {
+      elem.className += ' ' + className;
+    }
+  }
+</script>
+<script>
+  $(document).ready(function() {
+    $("body").tooltip({
+      selector: '[data-toggle=tooltip]' }
+                     );
+  }
+                   );
+</script>
+<script>
+  jQuery('.scroll_up').hide();
+  var win_height = jQuery( window ).height();
+  jQuery(window).scroll(function() {
+    if (jQuery(document).scrollTop() > win_height) {
+      jQuery('.scroll_up').fadeIn();
+    }
+    else {
+      jQuery('.scroll_up').fadeOut();
+    }
+  }
+                       );
+  jQuery('.scroll_up').click(function () {
+    jQuery('body,html').animate({
+      scrollTop: 0
+    }
+                                , 800);
+    return false;
+  }
+                            );
+</script>
+<!-- END SCRIPT SCROLL BOTTOM TO TOP  -->
+<script>
+  // Hide Header on on scroll down
+  var didScroll;
+  var lastScrollTop = 0;
+  var delta = 5;
+  var navbarHeight = $('.navbar-default').outerHeight();
+  $(window).scroll(function(event){
+    didScroll = true;
+  }
+                  );
+  setInterval(function() {
+    if (didScroll) {
+      hasScrolled();
+      didScroll = false;
+    }
+  }
+              , 250);
+  function hasScrolled() {
+    var st = $(this).scrollTop();
+    // Make sure they scroll more than delta
+    if(Math.abs(lastScrollTop - st) <= delta)
+      return;
+    // If they scrolled down and are past the navbar, add class .nav-up.
+    // This is necessary so you never see what is "behind" the navbar.
+    if (st > lastScrollTop && st > navbarHeight){
+      // Scroll Down
+      $('.navbar-default').removeClass('nav-down').addClass('nav-up');
+    }
+    else {
+      // Scroll Up
+      if(st + $(window).height() < $(document).height()) {
+        $('.navbar-default').removeClass('nav-up').addClass('nav-down');
+      }
+    }
+    lastScrollTop = st;
+    if(st==0)
+    {
+      $('.navbar-default').removeClass('nav-down');
+      $('.navbar-default').removeClass('nav-up');
+    }
+  }
+  function qrWindow(address,w,h) 
+  {
+    var sTop = window.screen.height / 2 - (h / 2);
+    var sLeft = window.screen.width / 2 - (w / 2);
+    var sharer = window.open(address, "Share", "status=1,height=" + h + ",width=" + w + ",top=" + sTop + ",left=" + sLeft + ",resizable=0,scrollbars=0");
+  }
+</script>
+<script>
+  $('.count').each(function () {
+    $(this).prop('Counter',0).animate({
+      Counter: $(this).text()
+    }
+                                      , {
+      duration: 4000,
+      easing: 'swing',
+      step: function (now) {
+        $(this).text(Math.ceil(now));
+      }
+    }
+	);
+  }
+);
+</script>
+
+
+<!-- Load Facebook SDK for JavaScript -->
+<!--
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div class="fb-customerchat"  attribution=setup_tool  page_id="1614214231968102" greeting_dialog_display="hide" >
+</div>-->
+
+<!-- Your customer chat code -->
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '999302063539838',
+      cookie     : true,
+      xfbml      : true,
+      version    : 'v3.2'
+    });
+    FB.AppEvents.logPageView();   
+/*
+    FB.getLoginStatus(function(response) {
+    statusChangeCallback(response);
+});
+    */
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<script type="text/javascript">
+
+  // This is called with the results from from FB.getLoginStatus().
+  function statusChangeCallback(response) {
+    console.log('statusChangeCallback');
+    console.log(response);
+    // The response object is returned with a status field that lets the
+    // app know the current login status of the person.
+    // Full docs on the response object can be found in the documentation
+    // for FB.getLoginStatus().
+    if (response.status === 'connected') {
+      // Logged into your app and Facebook.
+      allauthorAPI();	 
+    } else {
+      // The person is not logged into your app or we are unable to tell.
+     //alert ("please login to the app");
+    }
+  }
+function allauthorAPI() {
+    console.log('Welcome!  Fetching your information.... ');
+    var url = '/me?fields=name,email,gender';
+    FB.api(url, function(response) { 
+      console.log(response);
+	  if(response.email!=''){
+		  var action='loginfb';
+		  var email = response.email;
+		  var name = response.name;
+		  var fbid = response.id;
+		  var gender = response.gender;
+		  var accessToken = '';
+		 $("#fblogin").html("Please wait...");
+		
+if(email!=undefined)	 
+{
+	 $.post("/ajaxcondition.php",{action:action,email:email,name:name,gender:gender,fbid:fbid,accessToken:accessToken},function(data){
+			//$("#sendmail-alert").html(data);
+			//console.log(data);
+			console.log ("|"+data+"|");
+			if(data=='registration')
+			{
+				
+				window.location.href='/my_account.php';
+			}
+			else
+			{
+				window.location.reload();
+			}
+			});
+}
+else
+{
+	$("#fblogin").html("Can't get your email id with facebook login, Please signup with email");
+}
+	  }
+	  else
+	  {
+		 // alert ("can't get your email id.Please login with your email id.")
+	  }
+			
+    });
+  }
+
+function checkLoginState() {
+	console.log("loginbuttonclick")
+  FB.getLoginStatus(function(response) {
+    statusChangeCallback(response);
+  });
+}
+    
+</script><!-- chat end -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.jssocials/1.4.0/jssocials.min.js"></script>
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.4.0/jssocials.css" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.4.0/jssocials-theme-flat.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js"></script>
+
+<!--<script type="text/javascript" src="https://allauthor.com/js/canvas.min.js"></script>-->
+<script>
+  $( document ).ready(function() {
+    var clipboard = new ClipboardJS('.btncopy');
+    clipboard.on('success', function(e) {
+      console.log(e);
+      e.trigger.textContent = 'Copied!';
+    }
+                );
+    clipboard.on('error', function(e) {
+      console.log(e);
+    }
+);
+
+
+/*	html2canvas(document.getElementById("canvasdiv"),{allowTaint:true,height:400,x:0,y:0,backgroundColor:"#ffffff"}).then(function(canvas) {		
+    document.body.appendChild(canvas);});
+*/
+	
+
+  });
+
+</script>
+
+
+<script>
+var yallFlag = '1';
+      document.addEventListener("DOMContentLoaded", function() { 
+		  if(yallFlag){
+			yall({
+				observeChanges: true,
+				idlyLoad: true,
+				load: function() { 
+				
+				}
+			});
+		  }
+
+      });
+    </script>
+	
+	<!-- Hotjar Tracking Code for https://allauthor.com 
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1161954,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>-->
+<script>
+$( document ).ready(function() {
+    var resizeTextarea = function(el) {
+		//console.log(el)
+		var offset = el.offsetHeight - el.clientHeight;
+        $(el).css('height', 'auto').css('height', el.scrollHeight + offset);
+    };
+$(document).on('keyup input focus','textarea', function() { resizeTextarea(this); }).removeAttr('data-autoresize');
+});
+
+
+</script>	
+<!-- This is for favourite modle box book-->
+
+</body>
+</html>
+
+<script src="https://allauthor.com/js/jquery.masonry.min.js"></script>
+<script src="https://media.allauthor.com/js/masonry.js"></script>
+<script type="text/javascript">
+/*	$(window).on("load",function() {
+	  equalheight('.masonry .book-item-slide');
+	});
+	$(window).resize(function(){
+	  equalheight('.masonry .book-item-slide');
+	});
+	*/	
+	
+	var $container = $('#featured_books');
+$(window).on("load",function() {
+  equalheight('.masonry .book-item-slide');
+});
+$container.imagesLoaded(function(){
+    $('.book-item-slide img').addClass('not-loaded');
+    yall({
+        observeChanges: true,
+        idlyLoad: true,
+        load: function(){  		
+            // Disable trigger on this image
+			$(this).removeClass("not-loaded");
+            setTimeout(function() { equalheight('.masonry .book-item-slide');}, 250);
+        }
+    });
+    $('.book-item-slide img.not-loaded').trigger('scroll');
+}); 
+
+</script>
+<script>
+	$(document).ready(function(){
+		$("#hide").click(function(){
+		$(".Are-you-author").hide();
+		});
+	});
+	$(document).ready(function(){
+		$("#off").click(function(){
+		$(".mobile-app").hide();
+		});
+	});
+</script>
+<script type="text/javascript" src="https://allauthor.com/js/jquery.gridrotator.js"></script>
+<script type="text/javascript">	
+	$(function() {
+		$( '#ri-grid' ).gridrotator( {
+			rows : 3,
+			columns : 9,
+			maxStep : 2,
+			interval : 4000,			
+			w1024 : {
+				rows : 5,
+				columns : 5
+			},
+			w768 : {
+				rows : 5,
+				columns : 5
+			},
+			w480 : {
+				rows : 4,
+				columns : 3
+			},
+			w320 : {
+				rows : 7,
+				columns : 3
+			},
+			w240 : {
+				rows : 7,
+				columns : 3
+			},
+			heightToWidthRatio : 1.5,
+		} );
+	});
+</script>
